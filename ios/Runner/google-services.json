@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "844663124519",
+    "firebase_url": "https://libu-go-default-rtdb.firebaseio.com",
+    "project_id": "libu-go",
+    "storage_bucket": "libu-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844663124519:android:107de5cf029d0fe372d402",
+        "android_client_info": {
+          "package_name": "com.goride.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844663124519-qcqv4ifvuti4hn1u3nf17kslud1kronu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goride.customer",
+            "certificate_hash": "5cceafb13fa3195405d147d4d109cdfd20a389d4"
+          }
+        },
+        {
+          "client_id": "844663124519-t2kd876ve8vjsap56l35a70ci9m6o4oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goride.customer",
+            "certificate_hash": "4ae7dcf0fa619ae609167986ec250af03aede15b"
+          }
+        },
+        {
+          "client_id": "844663124519-t4ergio908edcva007rddb9rpkir9hr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goride.customer",
+            "certificate_hash": "f744eb0096bf17fdd91d7766d496490a72e23c4c"
+          }
+        },
+        {
+          "client_id": "844663124519-t6ca18go62mbati9s5jigheu20m35l13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goride.customer",
+            "certificate_hash": "44a589cef8559b8d906df834b4323575b4807116"
+          }
+        },
+        {
+          "client_id": "844663124519-7404s9qfvl68s4mv2ch82ncpagjr3uld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb0emstYeMG1sNjQ_AUm6KMU-5DA3hjik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844663124519-7404s9qfvl68s4mv2ch82ncpagjr3uld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844663124519-oeqblgejbe9545p7jgt1gupo5akcr79g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.libu.hodhod"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844663124519:android:5e2c097e530d413272d402",
+        "android_client_info": {
+          "package_name": "com.libu.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844663124519-06bet6gg186anuddolgoknpqq2c54ske.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.libu.driver",
+            "certificate_hash": "44a589cef8559b8d906df834b4323575b4807116"
+          }
+        },
+        {
+          "client_id": "844663124519-7404s9qfvl68s4mv2ch82ncpagjr3uld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb0emstYeMG1sNjQ_AUm6KMU-5DA3hjik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844663124519-7404s9qfvl68s4mv2ch82ncpagjr3uld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844663124519-oeqblgejbe9545p7jgt1gupo5akcr79g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.libu.hodhod"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844663124519:android:7b086f61f0b6d1aa72d402",
+        "android_client_info": {
+          "package_name": "com.libu.hodhod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844663124519-0rm6cit13cmm55et9rvl05fk9f1r7d2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.libu.hodhod",
+            "certificate_hash": "44a589cef8559b8d906df834b4323575b4807116"
+          }
+        },
+        {
+          "client_id": "844663124519-7404s9qfvl68s4mv2ch82ncpagjr3uld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb0emstYeMG1sNjQ_AUm6KMU-5DA3hjik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844663124519-7404s9qfvl68s4mv2ch82ncpagjr3uld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844663124519-oeqblgejbe9545p7jgt1gupo5akcr79g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.libu.hodhod"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

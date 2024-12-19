@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811127353392",
+    "project_id": "aviationconsultant-2b57d",
+    "storage_bucket": "aviationconsultant-2b57d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811127353392:android:c3c0307a30be3536aebdf5",
+        "android_client_info": {
+          "package_name": "com.khoarism.aviationconsultant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhocmy8bQI1PDWCLsuIyRUO0XyDxxzByc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
